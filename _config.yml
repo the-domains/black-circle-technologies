@@ -1,0 +1,52 @@
+name: Black Circle Technologies
+layout_spectrum: 0.3163870261252701
+typography_spectrum: 0.8743396497085358
+analytics:
+  google: UA-102065975-1
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#010101'
+    - '#3C3B41'
+    - '#927F78'
+    - '#EFD18A'
+  brandStrength: 0.9020867692915225
+  lightness: 0.2683507208112111
+  saturation: 0.1892994996235881
+  rhythmicContrast: 0.6779971656346196
+purpose:
+  - type: contact
+    url: 'mailto:jon@blackcircletechnologies.com'
+    label: Contact me
+title: Black Circle Technologies
+description: >-
+  Black Circle Technologies was founded in 2017 to help bridge the gap between
+  blockchain and real world applications of this technology. We can help you
+  evaluate new opportunities and present creative solutions to clarify how
+  blockchain related technologies can improve your business.
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae56ba1e-816e-49e8-a6c3-941bb14fe21d.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae56ba1e-816e-49e8-a6c3-941bb14fe21d.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
